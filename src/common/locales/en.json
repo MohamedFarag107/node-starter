@@ -1,0 +1,22 @@
+{
+	"error": {
+		"not-found": "Not Found",
+		"path-not-found": "The Path Not Found In The Server",
+		"invalidEmailOrPassword": "Invalid Email Or Password",
+		"invalidEmail": "Invalid Email",
+		"unauthorized": "Unauthorized Access",
+		"forbidden": "Access Forbidden",
+		"internal-server-error": "error.internal-server-error"
+	},
+	"validation": {
+		"required": "{{field}} is required",
+		"email": "{{field}} is not a valid email",
+		"must-be-at-least": "{{field}} must be at least {{length}} characters"
+	},
+	"signin": {
+		"success": "Signin Successfully"
+	},
+	"getMe": {
+		"success": "Get Me Successfully"
+	}
+}
